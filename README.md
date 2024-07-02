@@ -1,3 +1,5 @@
+Hi 👋, I'm Mohit Sharma
+
 🔭 I’m currently working on making some projects 
 
 🌱 I’m currently learning javascript
